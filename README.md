@@ -52,3 +52,7 @@ Its universality ensures that knowledge can be harmonized, chaos resolved into c
 
 Platforms amplify its reach, but they do not alter its core.  
 WiseAGI is open to the greatest benefit of mankind ✨, inspired by Nature.
+## WiseAGI Roadmap
+
+- Phase 1: Public release of demos, pipeline chart, and manifesto (Dec 2025)
+- Phase 2: Formal Lean proofs released after publication and patent finalization (2026)
