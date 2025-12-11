@@ -1,3 +1,8 @@
+# WiseAGI: Open to the Greatest Benefit of Mankind ✨
+
+A reproducible framework inspired by nature’s wisdom —  
+bridging mathematics, network science, and artificial intelligence  
+through chaos-free consensus and symbolic formalization.
 # WiseAGI: Chaos-Free Consensus Across Domains
 
 WiseAGI is a reproducible framework inspired by the wisdom of natural systems.  
