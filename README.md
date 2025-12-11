@@ -56,3 +56,4 @@ WiseAGI is open to the greatest benefit of mankind ✨, inspired by Nature.
 
 - Phase 1: Public release of demos, pipeline chart, and manifesto (Dec 2025)
 - Phase 2: Formal Lean proofs released after publication and patent finalization (2026)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
